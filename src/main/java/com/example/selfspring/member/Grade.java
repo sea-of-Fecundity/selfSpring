@@ -1,2 +1,6 @@
-package com.example.selfspring.member;public enum Grade {
+package com.example.selfspring.member;
+
+public enum Grade {
+    VIP,
+    BASIC;
 }
